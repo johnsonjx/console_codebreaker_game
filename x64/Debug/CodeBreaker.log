@@ -1,0 +1,3 @@
+﻿  CodeBreaker.cpp
+C:\Users\Super\OneDrive\old\Documents\programming_studies\IronGalaxyProgrammingTest\CodeBreaker.cpp(80,74): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  CodeBreaker.vcxproj -> C:\Users\Super\OneDrive\old\Documents\programming_studies\IronGalaxyProgrammingTest\x64\Debug\CodeBreaker.exe

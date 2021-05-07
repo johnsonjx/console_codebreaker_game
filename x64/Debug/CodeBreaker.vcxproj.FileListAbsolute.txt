@@ -1,0 +1,4 @@
+C:\Users\Super\Downloads\IronGalaxyProgrammingTest\x64\Debug\CodeBreaker.exe
+C:\Users\Super\Downloads\IronGalaxyProgrammingTest\x64\Debug\CodeBreaker.pdb
+C:\Users\Super\OneDrive\old\Documents\programming_studies\IronGalaxyProgrammingTest\x64\Debug\CodeBreaker.exe
+C:\Users\Super\OneDrive\old\Documents\programming_studies\IronGalaxyProgrammingTest\x64\Debug\CodeBreaker.pdb
